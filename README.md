@@ -37,7 +37,7 @@
 
 </td><td valign="top" width="50%">
 
-![My Avatar](![8bitpix](https://user-images.githubusercontent.com/64754204/201229114-a35a4a3d-7c29-4b89-9445-90c238eb23c3.png))  
+![My Avatar](![8bitpix](MyAvatar.jpg)  
 
 
 </td></tr></table>  
