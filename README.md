@@ -37,7 +37,7 @@
 
 </td><td valign="top" width="50%">
 
-![My Avatar](![8bitpix](MyAvatar.jpg)  
+![My Avatar](MyAvatar)  
 
 
 </td></tr></table>  
