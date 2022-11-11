@@ -32,7 +32,7 @@
 - ❓ Ask me about anything related to programming logic  
   
 
-- ⚡ Fun fact: I made an mobile app in high school.  
+- ⚡ Fun fact: I made a mobile app in high school.  
 
 
 </td><td valign="top" width="50%">
