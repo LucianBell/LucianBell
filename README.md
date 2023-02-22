@@ -23,16 +23,16 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [my portfolio](...).  
+- 🔭 I’m currently working on [an sports club managment app with a friend](https://github.com/LucianBell/SportzProject).  
   
 
-- 🌱 I’m currently learning Node.JS and Java.  
+- 🌱 I’m currently learning Java.  
   
 
-- ❓ Ask me about anything related to programming logic  
+- ❓ Ask me about anything related to leadership and databases 🤓
   
 
-- ⚡ Fun fact: I made a mobile app in high school.  
+- ⚡ Fun fact: I made a mobile app in high school (17 years old) and created a small business with a friend (18 years old).  
 
 
 </td><td valign="top" width="50%">
