@@ -1,4 +1,4 @@
-## <div align="center">Hey, my friend 👋 I'm Lucian Bellini!</div>  
+## <div align="center">Hey my friend 👋 I'm Lucian Bellini!</div>  
   
 
 ## <div align="center">Back-end Developer🧑‍💻 and computer science student 👨‍🎓 from Brazil 🌎</div>  
