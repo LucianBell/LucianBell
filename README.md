@@ -1,7 +1,7 @@
 ## <div align="center">Hey my friend 👋 I'm Lucian Bellini!</div>  
   
 
-## <div align="center">Back-end Developer🧑‍💻 and computer science student 👨‍🎓 from Brazil 🌎</div>  
+## <div align="center">Software engnieer🧑‍💻 and computer science student 👨‍🎓 from Brazil 🌎</div>  
   
 
 <div align="center">
@@ -75,11 +75,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LucianBell&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=LucianBell&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianBell&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianBell&hide_border=true&layout=compact&theme=dracula" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
