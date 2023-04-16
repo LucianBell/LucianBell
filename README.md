@@ -29,7 +29,9 @@
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
+- 🎯 I’m a Full-Stack developer using Java - Spring Boot for Back-End (also able to use NodeJS) and ReactJS for Front-End.
 
+  
 - 🔭 I’m currently working on [an sports club managment app with a friend](https://github.com/LucianBell/SportzProject).  
   
 
