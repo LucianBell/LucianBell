@@ -1,7 +1,7 @@
 ## <div align="center">Hey my friend 👋 I'm Lucian Bellini!</div>  
   
 
-## <div align="center">Software engnieer🧑‍💻 and computer science student 👨‍🎓 from Brazil 🌎</div>  
+## <div align="center">Software engineer🧑‍💻 and computer science student 👨‍🎓 from Brazil 🌎</div>  
   
 
 <div align="center">
