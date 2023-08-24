@@ -32,7 +32,7 @@
 🎯 I’m a Full-Stack developer using Java - Spring Boot for Back-End (also able to use NodeJS) and ReactJS for Front-End.
 
   
-- 🔭 I’m currently working on [an sports club managment app with a friend](https://github.com/LucianBell/SportzProject).  
+- 🔭 I’m currently working on [my accelerated learning path](https://github.com/LucianBell/6-Years-in-6-Months).  
   
 
 - 🌱 I’m currently learning Java.  
