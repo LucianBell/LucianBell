@@ -38,7 +38,7 @@
 - 🌱 I’m currently learning Java.  
   
 
-- ❓ Ask me about anything related to leadership and databases 🤓
+- ❓ Ask me anything related to leadership and databases 🤓
   
 
 - ⚡ Fun fact: I made a mobile app in high school (17 years old) and created a small business with a friend (18 years old).  
