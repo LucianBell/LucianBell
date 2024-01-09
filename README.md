@@ -1,7 +1,7 @@
 ## <div align="center">Hey my friend 👋 I'm Lucian Bellini!</div>  
   
 
-## <div align="center">Future data engineer🧑‍💻 and computer science student 👨‍🎓 from Brazil 🌎</div>  
+## <div align="center">Data engineer🧑‍💻 and computer science student 👨‍🎓 from Brazil 🌎</div>  
   
 
 <div align="center">
@@ -29,10 +29,10 @@
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-🎯 I’m a Full-Stack developer using Java - Spring Boot for Back-End (also able to use NodeJS) and ReactJS for Front-End.
+🎯 I’m a data engineer, a laboratory intern, and a hackathon addict. 
 
   
-- 🔭 I’m currently working on [my accelerated learning path](https://github.com/LucianBell/6-Years-in-6-Months).  
+- 🔭 I’m currently working on [a data visualization project](https://google.com/).  
   
 
 - 🌱 I’m currently learning data pipelines.  
