@@ -1,7 +1,7 @@
 ## <div align="center">Hey my friend 👋 I'm Lucian Bellini!</div>  
   
 
-## <div align="center">Software engineer🧑‍💻 and computer science student 👨‍🎓 from Brazil 🌎</div>  
+## <div align="center">Future data engineer🧑‍💻 and computer science student 👨‍🎓 from Brazil 🌎</div>  
   
 
 <div align="center">
@@ -35,7 +35,7 @@
 - 🔭 I’m currently working on [my accelerated learning path](https://github.com/LucianBell/6-Years-in-6-Months).  
   
 
-- 🌱 I’m currently learning Java.  
+- 🌱 I’m currently learning data pipelines.  
   
 
 - ❓ Ask me anything related to leadership and databases 🤓
