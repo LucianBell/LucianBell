@@ -29,13 +29,13 @@
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
-🎯 I’m a data engineer, a laboratory intern, and a hackathon addict. 
+🎯 I’m a data scientist, a laboratory intern, and a hackathon addict. 
 
   
 - 🔭 I’m currently working on [a data visualization project](https://google.com/).  
   
 
-- 🌱 I’m currently learning data pipelines.  
+- 🌱 I’m currently learning data pipelines.
   
 
 - ❓ Ask me anything related to leadership and databases 🤓
