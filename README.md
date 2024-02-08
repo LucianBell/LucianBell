@@ -32,7 +32,7 @@
 🎯 I’m a data scientist, a laboratory intern, and a hackathon addict. 
 
   
-- 🔭 I’m currently working on [a data visualization project](https://google.com/).  
+- 🔭 I’m currently working on [a data visualization project](https://github.com/LucianBell/Data-Visualization-PaleBlueDot).  
   
 
 - 🌱 I’m currently learning data pipelines.
